@@ -4,11 +4,11 @@ _Software Developer presently based in London_ <br>
 
 [LinkedIn](https://www.linkedin.com/in/maggiehibberd/) | [GitHub](https://github.com/MaggieHibberd) | [Email](maggiehibberd@gmail.com) | [Co-Founder](https://www.welcomepresents.com/about)
 
-```
+
 Recent Makers Academy graduate with an excellent foundation in test-driven development, object-oriented programming and modern development languages including JavaScript. An accomplished project management professional results orientated, & adept at using Agile methodology & collaborative practices
 
 A background in data analytics across industries including digital banking led me to automation and inspired my career transition. Excited to bring ideas to life & the opportunity to build applications that satisfy user needs
-```
+
 
 ## :woman_technologist: SELECTED PROFESSIONAL EXPERIENCE
 
