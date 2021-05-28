@@ -10,7 +10,7 @@ Recent Makers Academy graduate with an excellent foundation in test-driven devel
 A background in data analytics across industries including digital banking led me to automation and inspired my career transition. Excited to bring ideas to life & the opportunity to build applications that satisfy user needs
 
 
-## :woman_technologist: SELECTED PROFESSIONAL EXPERIENCE
+## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
 **Technology Services Direct Line Group | Portfolio Consultant | Mar 2019 – Jan 2020:** @ [DLG](https://www.directlinegroup.co.uk) 
 
@@ -31,17 +31,17 @@ Terminal 2 construction project at Heathrow Airport
 - Managing relationships with external & internal stakeholders through change and uncertainty. Ensuring communication took place early & often so benefits and concerns were fully recognised
 
 ## 📌 Co-Founder
-Welcome Presents was formed while volunteering in the Calais ‘Jungle’ at the height of the media frenzy surrounding ‘Europe’s refugee crisis’ and looks to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! :film_projector: :stuffed_flatbread: :people_holding_hands:
+Welcome Presents was formed while volunteering in the Calais ‘Jungle’ at the height of the media frenzy surrounding ‘Europe’s refugee crisis’ and looks to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! 📽️ 🥙 🧑‍🤝‍🧑 :people_holding_hands:
 Check our past events out:[Click here!](https://welcomepresents.com)
 
-## :scroll: Education
+## 📜 Education
 **Makers Academy** 
 Sept 2020 – Dec 2020
 
 **University of East London**
 Sept 2002 - June 2005
 
-## :white_check_mark: Projects
+## ✅ Projects
 [Bank Tech Test](https://github.com/MaggieHibberd/bank_tech_test.git)
 
 Tech test demonstrating TDD and OOP, A banking app that can be interacted with through irb
