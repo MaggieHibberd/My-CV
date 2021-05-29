@@ -12,14 +12,14 @@ A background in data analytics across industries including digital banking led m
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) 
+**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br>
 
 Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_ 
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 
 
-**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com)  
+**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) <br> 
 
 Delivery of Digital Rectifications | _Jul 2014 – Dec 2018_ <br>
 - Defined initial scope and reporting documents for the Digital customer rectification portfolio. Analysed requirements and developed standardised approach for Senior Management
