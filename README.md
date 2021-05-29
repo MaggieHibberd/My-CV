@@ -12,8 +12,7 @@ A background in data analytics across industries including digital banking led m
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) 
-| _Mar 2019 – 
+**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk)\ | _Mar 2019 – 
 Jan 2020_ <br> 
 
 Supporting the Technology Services Portfolio team
@@ -21,15 +20,14 @@ Supporting the Technology Services Portfolio team
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 <br><br>
 
-**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) 
-|   _Jul 2014 – Dec 2018_ <br>
+**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com)\ | _Jul 2014 – Dec 2018_ <br>
 
 Delivery of Digital Rectifications 
 - Defined initial scope and reporting documents for the Digital customer rectification portfolio. Analysed requirements and developed standardised approach for Senior Management
 - Ensured user needs were prioritised throughout the lifecycle of each rectification, including investigation into how new technology could be utilised to improve processes
 <br><br>
 
-**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company) | _Jul 2011 – 
+**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company)\ | _Jul 2011 – 
 Jul 2014_ <br>
 
 Terminal 2 construction project at Heathrow Airport
