@@ -8,7 +8,7 @@ _Software Developer presently based in London_ <br>
 Recent Makers Academy graduate with an excellent foundation in test-driven development, object-oriented programming and modern development languages including JavaScript. An accomplished project management professional results orientated, & adept at using Agile methodology & collaborative practices
 
 A background in data analytics across industries including digital banking led me to automation and inspired my career transition. Excited to bring ideas to life & the opportunity to build applications that satisfy user needs
-
+<br><br>
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
@@ -36,6 +36,7 @@ Terminal 2 construction project at Heathrow Airport
 ## 📌 Co-Founder
 Welcome Presents was formed while volunteering in the Calais ‘Jungle’ at the height of the media frenzy surrounding ‘Europe’s refugee crisis’ and looks to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! 📽️ 🥙 🧑‍🤝‍🧑 :people_holding_hands:
 Check our past events out:[Click here!](https://welcomepresents.com)
+<br><br>
 
 ## 📜 Education
 **Makers Academy** 
@@ -45,6 +46,7 @@ _Sept 2020 – Dec 2020_ <br>
 **University of East London**
 <br><br>
 _Sept 2002 - June 2005_ <br>
+<br><br>
 
 ## ✅ Projects
 [Bank Tech Test](https://github.com/MaggieHibberd/bank_tech_test.git)
