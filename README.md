@@ -19,7 +19,7 @@ Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 
 
-**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) 
+**Digital Customer Rectifications** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) 
 
 Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_ 
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
