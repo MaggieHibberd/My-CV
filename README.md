@@ -12,24 +12,26 @@ A background in data analytics across industries including digital banking led m
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Technology Services Direct Line Group**  | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) | _Mar 2019 – Jan 2020_ <br> 
+**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) | _Mar 19 – Jan 20_ <br> 
 
 Supporting the Technology Services Portfolio team
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 <br><br>
 
-**Digital Customer Rectifications  PMO Manager | Lloyds Banking Group | July 2014 – Dec 2018: @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com/)** <br>
+**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com/) | _July 14 – Dec 18_  <br>
 
 Delivery of Digital Rectifications 
 - Defined initial scope and reporting documents for the Digital customer rectification portfolio. Analysed requirements and developed standardised approach for Senior Management
 - Ensured user needs were prioritised throughout the lifecycle of each rectification, including investigation into how new technology could be utilised to improve processes
+- <br><br>
 
-**Terminal 2 Programme | PMO | British Airports Authority | July 2011 – July 2014: @ [Heathrow Airport](https://www.heathrow.com/company)** <br>
+**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company) | _July 2011 – July 2014_ <br>
 
 Terminal 2 construction project at Heathrow Airport
 - Collaborating across project teams, mapping out customer journeys, to complete  delivery of testing for individual elements of the terminal operations 
 - Managing relationships with external & internal stakeholders through change and uncertainty. Ensuring communication took place early & often so benefits and concerns were fully recognised
+<br><br>
 
 ## 📌 Co-Founder
 Welcome Presents was formed while volunteering in the Calais ‘Jungle’ at the height of the media frenzy surrounding ‘Europe’s refugee crisis’ and looks to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! 📽️ 🥙 🧑‍🤝‍🧑 :people_holding_hands:
@@ -37,10 +39,10 @@ Check our past events out:[Click here!](https://welcomepresents.com)
 
 ## 📜 Education
 **Makers Academy** 
-Sept 2020 – Dec 2020
+_Sept 2020 – Dec 2020_ <br>
 
 **University of East London**
-Sept 2002 - June 2005
+_Sept 2002 - June 2005_ <br>
 
 ## ✅ Projects
 [Bank Tech Test](https://github.com/MaggieHibberd/bank_tech_test.git)
