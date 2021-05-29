@@ -18,7 +18,7 @@ Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 <br><br>
-<br><br>
+
 **Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br>
 
 Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_ 
@@ -26,7 +26,6 @@ Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 <br><br>
 
-<br><br>
 **Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) <br> 
 
 Delivery of Digital Rectifications | _Jul 2014 – Dec 2018_ <br>
