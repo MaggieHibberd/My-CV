@@ -39,14 +39,12 @@ Check our past events out:[Click here!](https://welcomepresents.com)
 <br><br>
 
 ## 📜 Education
-**Makers Academy** 
-<br><br>
+
+**Makers Academy** <br>
 _Sept 2020 – Dec 2020_ <br>
 
-**University of East London**
-<br><br>
+**University of East London**<br>
 _Sept 2002 - June 2005_ <br>
-<br><br>
 
 ## ✅ Projects
 [Bank Tech Test](https://github.com/MaggieHibberd/bank_tech_test.git)
