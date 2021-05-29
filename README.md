@@ -18,21 +18,18 @@ Supporting the Technology Services Portfolio team
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 <br><br>
-
 **Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com/) | _Jul 2014 – Dec 2018_  <br>
 
 Delivery of Digital Rectifications 
 - Defined initial scope and reporting documents for the Digital customer rectification portfolio. Analysed requirements and developed standardised approach for Senior Management
 - Ensured user needs were prioritised throughout the lifecycle of each rectification, including investigation into how new technology could be utilised to improve processes
-- <br><br>
-
+<br><br>
 **Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company) | _Jul 2011 – Jul 2014_ <br>
 
 Terminal 2 construction project at Heathrow Airport
 - Collaborating across project teams, mapping out customer journeys, to complete  delivery of testing for individual elements of the terminal operations 
 - Managing relationships with external & internal stakeholders through change and uncertainty. Ensuring communication took place early & often so benefits and concerns were fully recognised
 <br><br>
-
 ## 📌 Co-Founder
 Welcome Presents was formed while volunteering in the Calais ‘Jungle’ at the height of the media frenzy surrounding ‘Europe’s refugee crisis’ and looks to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! 📽️ 🥙 🧑‍🤝‍🧑 :people_holding_hands:
 Check our past events out:[Click here!](https://welcomepresents.com)
