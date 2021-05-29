@@ -12,7 +12,7 @@ A background in data analytics across industries including digital banking led m
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Technology Services Direct Line Group  | Portfolio Consultant**  | @ [DLG](https://www.directlinegroup.co.uk) | _Mar 2019 – Jan 2020_ <br> 
+**Technology Services Direct Line Group**  | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) | _Mar 2019 – Jan 2020_ <br> 
 
 Supporting the Technology Services Portfolio team
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
