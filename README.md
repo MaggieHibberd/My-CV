@@ -8,7 +8,7 @@ _Software Developer presently based in London_
 Recent Makers Academy graduate with an excellent foundation in test-driven development, object-oriented programming and modern development languages including JavaScript. An accomplished project management professional results orientated, & adept at using Agile methodology & collaborative practices
 
 A background in data analytics across industries including digital banking led me to automation and inspired my career transition. Excited to bring ideas to life & the opportunity to build applications that satisfy user needs
-
+<br><br>
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
@@ -32,7 +32,6 @@ Terminal 2 construction project at Heathrow Airport (_Jul 2011 – Jul 2014_)
 - Collaborating across project teams, mapping out customer journeys, to complete  delivery of testing for individual elements of the terminal operations 
 - Managing relationships with external & internal stakeholders through change and uncertainty. Ensuring communication took place early & often so benefits and concerns were fully recognised
 
-<br><br>
 
 ## 📌 Co-Founder
 Welcome Presents was formed while volunteering in the Calais ‘Jungle’ at the height of the media frenzy surrounding ‘Europe’s refugee crisis’ and looks to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! 📽️ 🥙 🧑‍🤝‍🧑 :people_holding_hands:
