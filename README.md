@@ -12,8 +12,8 @@ A background in data analytics across industries including digital banking led m
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br /> | _Mar 2019 – 
-Jan 2020_ <br> 
+**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br />  
+| _Mar 2019 – Jan 2020_ <br> 
 
 Supporting the Technology Services Portfolio team
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
@@ -28,8 +28,8 @@ Delivery of Digital Rectifications
 - Ensured user needs were prioritised throughout the lifecycle of each rectification, including investigation into how new technology could be utilised to improve processes
 <br><br>
 
-**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company)\ | _Jul 2011 – 
-Jul 2014_ <br>
+**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company) <br />  
+| _Jul 2011 – Jul 2014_ <br>
 
 Terminal 2 construction project at Heathrow Airport
 - Collaborating across project teams, mapping out customer journeys, to complete  delivery of testing for individual elements of the terminal operations 
