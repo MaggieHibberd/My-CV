@@ -12,26 +12,25 @@ A background in data analytics across industries including digital banking led m
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br />  
-| _Mar 2019 – Jan 2020_ <br> 
+**Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br> 
 
-Supporting the Technology Services Portfolio team
+Supporting the Technology Services Portfolio team | _Mar 2019 – Jan 2020_ 
 -	Translating complex technical concepts and information and disseminating it into reports for communication across the portfolio teams
 -	Solid stakeholder management through relationship development and  understanding of stakeholders to ensure continued interaction and maintained communication flow
 
 
-**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) <br /> 
-| _Jul 2014 – Dec 2018_ <br>
+**Digital Customer Rectifications** | PMO Manager @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) <br> 
 
-Delivery of Digital Rectifications 
+
+Delivery of Digital Rectifications | _Jul 2014 – Dec 2018_ <br>
 - Defined initial scope and reporting documents for the Digital customer rectification portfolio. Analysed requirements and developed standardised approach for Senior Management
 - Ensured user needs were prioritised throughout the lifecycle of each rectification, including investigation into how new technology could be utilised to improve processes
 <br><br>
 
-**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company) <br />  
-| _Jul 2011 – Jul 2014_ <br>
+**Terminal 2 Programme** | PMO @ [Heathrow Airport](https://www.heathrow.com/company) <br>
 
-Terminal 2 construction project at Heathrow Airport
+
+Terminal 2 construction project at Heathrow Airport | _Jul 2011 – Jul 2014_ 
 - Collaborating across project teams, mapping out customer journeys, to complete  delivery of testing for individual elements of the terminal operations 
 - Managing relationships with external & internal stakeholders through change and uncertainty. Ensuring communication took place early & often so benefits and concerns were fully recognised
 <br><br>
