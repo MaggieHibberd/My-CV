@@ -2,7 +2,7 @@
 
 _Software Engineer presently based in London_ 
 
-[LinkedIn](https://www.linkedin.com/in/maggiehibberd/) | [GitHub](https://github.com/MaggieHibberd) | [Email](maggiehibberd@gmail.com) | [Co-Founder](https://www.welcomepresents.com/about)
+[LinkedIn](https://www.linkedin.com/in/maggiehibberd/) | [GitHub](https://github.com/MaggieHibberd) | [Email](maggiehibberd@gmail.com) | [Co-Founder](https://www.welcomepresents.com/about) | [Digital CV](https://maggiehibberd.github.io/My-CV/)
 
 
 An accomplished ex(!)-project manager with a background in digital services with the soft and hard skills to flourish in testing roles. My experience collaborating at pace in multidisciplinary teams to deliver large scale projects together with a foundation in software development practices gives me the confidence to add value to technical teams and products. 
