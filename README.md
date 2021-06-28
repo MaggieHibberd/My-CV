@@ -38,7 +38,7 @@ Terminal 2 construction project at Heathrow Airport (_Jul 2011 – Jul 2014_)
 
 
 ## 📌 Co-Founder
-WWelcome Presents was formed to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! The pandemic offered an opportunity to pivot to online content and podcasts.
+Welcome Presents was formed to bring together refugees, asylum seekers and the general public through a shared love of film, food and friendship! The pandemic offered an opportunity to pivot to online content and podcasts.
  📽️ 🥙 🧑‍🤝‍🧑 :people_holding_hands:
 Check our past events out:[Click here!](https://welcomepresents.com)
 <br><br>
