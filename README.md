@@ -7,7 +7,7 @@ _Software Engineer presently based in London_
 
 An accomplished ex(!)-project manager with a background in digital services with the soft and hard skills to flourish in testing roles. My experience collaborating at pace in multidisciplinary teams to deliver large scale projects together with a foundation in software development practices gives me the confidence to add value to technical teams and products. 
 
-My strong communication skills, an unstoppable drive to seek out errors and flexible approach to problem solving has sparked my motivation to create outstanding software in a testing role.
+My strong communication skills, an unstoppable drive to seek out errors and flexible approach to problem solving has sparked my motivation to create outstanding software in a engineer role.
 
 <br><br>
 
