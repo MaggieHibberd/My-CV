@@ -56,6 +56,12 @@ _Sept 2002 - June 2005_ <br>
 
 Mini app demonstrating MVC, TDD utilising HTML & CSS
 
+[Glenn is dead](https://github.com/MaggieHibberd/glennsDead)
+
+For all of us Walking Dead nerds the day Glenn died was particularly painful, I created this little app to show the number of days we mega fans have been in mourning…lest we forget!
+
+This project was bootstrapped with Create React App. Deployed to the web using Heroku
+
 [Bank Tech Test](https://github.com/MaggieHibberd/bank_tech_test.git)
 
 Tech test demonstrating TDD and OOP, A banking app that can be interacted with through irb
