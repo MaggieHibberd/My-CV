@@ -13,7 +13,7 @@ My strong communication skills, an unstoppable drive to seek out errors and flex
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
 
-**Deloitte** | Junior Software Developer  @ [Deloitte](https://www2.deloitte.com/uk/en/explore/home.html) <br>
+**Risk Advisory Deloitte** | Junior Software Developer  @ [Deloitte](https://www2.deloitte.com/uk/en/explore/home.html) <br>
 
 Supporting the Risk Advisory Team (_Nov 2021 – Present_)
 -	Working within the Django framework to build data models, JSON apis, and services to support product features
