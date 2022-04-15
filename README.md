@@ -1,6 +1,6 @@
 # Maggie Hibberd
 
-_Software Engineer presently based in London_ 
+_Software Developer presently based in London_ 
 
 [LinkedIn](https://www.linkedin.com/in/maggiehibberd/) | [GitHub](https://github.com/MaggieHibberd) | [Email](maggiehibberd@gmail.com) | [Co-Founder](https://www.welcomepresents.com/about) | [Digital CV](https://maggiehibberd.github.io/My-CV/)
 
@@ -12,6 +12,12 @@ My strong communication skills, an unstoppable drive to seek out errors and flex
 <br><br>
 
 ## 👩‍💻 SELECTED PROFESSIONAL EXPERIENCE
+
+**Deloitte** | Junior Software Developer  @ [Deloitte](https://www2.deloitte.com/uk/en/explore/home.html) <br>
+
+Supporting the Risk Advisory Team (_Nov 2021 – Present_)
+-	Working within the Django framework to build data models, JSON apis, and services to support product features
+-	Testing the front end of the application to detect issues, analysing data and writing SQL queries for reports
 
 **Technology Services Direct Line Group** | Portfolio Consultant @ [DLG](https://www.directlinegroup.co.uk) <br>
 
